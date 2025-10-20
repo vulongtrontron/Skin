@@ -1,0 +1,19 @@
+{
+  "skins": [
+    {
+      "name": "Steve",
+      "image": "https://example.com/skins/steve.png",
+      "download": "https://example.com/skins/steve.mcskin"
+    },
+    {
+      "name": "Alex",
+      "image": "https://example.com/skins/alex.png",
+      "download": "https://example.com/skins/alex.mcskin"
+    },
+    {
+      "name": "Creeper",
+      "image": "https://example.com/skins/creeper.png",
+      "download": "https://example.com/skins/creeper.mcskin"
+    }
+  ]
+}
